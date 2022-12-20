@@ -9,3 +9,7 @@
 ### Data Augmentation
 
 ![Capture](https://user-images.githubusercontent.com/50166164/208571272-a453c0e0-d851-44e6-a545-5f4ee2d0b3ca.PNG)
+
+### Human Face Generation
+
+![Capture](https://user-images.githubusercontent.com/50166164/208571382-5875eac4-b085-461a-8e5c-18942937478f.PNG)
