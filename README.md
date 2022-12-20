@@ -5,6 +5,7 @@
 ### Handwritten digits generation
 
 ![Capture](https://user-images.githubusercontent.com/50166164/208571116-e7cbcb5f-9425-4185-9713-a61a31312e6c.PNG)
+![Capture](https://user-images.githubusercontent.com/50166164/208571612-0400cb78-66ec-4d97-9e98-563c4a0548a5.PNG)
 
 ### Data Augmentation
 
